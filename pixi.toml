@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Noah Jutz <noah@noahjutz.com>"]
+channels = ["conda-forge", "robostack-humble"]
+name = "pixi_threadpoolbuilderror"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
